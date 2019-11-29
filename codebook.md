@@ -1,3 +1,6 @@
+Codebook:
+This document is a codebook that provides descriptions of the variables, the data, and all transformations and work performed to clean the data.
+
 Cleaning and Getting Data: Course Project CODEBOOK
 A script run_analysis.R was created in order to complete the challenge to read the processed experiment data and performs a number of steps to get it into summary form.
 
