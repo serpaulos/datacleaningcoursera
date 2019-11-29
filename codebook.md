@@ -58,5 +58,7 @@ All words started with character t in column’s name replaced by Time
 
 
 #5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
 finalData (180 rows, 88 columns) is created by sumarizing tidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+
 Export finalData into finalData.txt
